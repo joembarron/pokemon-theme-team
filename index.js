@@ -74,4 +74,3 @@ function reqListener() {
   }
   addPokemonImageToUnorderedList(this.response);
 }
-
